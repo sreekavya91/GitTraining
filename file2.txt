@@ -1,4 +1,0 @@
-content in file 2
-This is content in file2 in main branch 
-
-
